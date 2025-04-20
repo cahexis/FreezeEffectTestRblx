@@ -3,3 +3,5 @@ READ ME.
 
 Hi! This was a one day challenge to try to create something in less than 24/7, I like to do these sometimes.
 The files in this repository will show the scripts used, if you would like to see the models and whatnot, check out the rbxl file!!
+
+If you want to use this project for anything, just give credit and link back to here.
